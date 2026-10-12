@@ -1,0 +1,2 @@
+# premium-surfing-001-surf-session-log-board-quive
+Stop guessing which board to paddle out on. Your surf sessions are a goldmine of data — but only if you actually log them. The Surf Session Log &amp; Board Quiver — Notion Template transforms scattered notes into a personalized surf intelligence system.  This template solves the problem of forgotten board performance and session details. It combines a
